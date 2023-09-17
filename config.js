@@ -14,10 +14,10 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;My4gWZya#aB1-7wEOKsLs2jwVHLSWfsw2Vibgf9LGr5xuzrSvyV8 // PUT your session ID BY scan QR'
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://kavi_wabot_user:fBwiYEsEuwCOqU60w2CxlVNdYV2ggr2Z@dpg-ck3h0e6ru70s73dojv7g-a.frankfurt-postgres.render.com/kavi_wabot'
 
 
 
