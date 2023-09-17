@@ -14,20 +14,20 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;My4gWZya#aB1-7wEOKsLs2jwVHLSWfsw2Vibgf9LGr5xuzrSvyV8 // PUT your session ID BY scan QR'
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://kavi_wabot_user:fBwiYEsEuwCOqU60w2CxlVNdYV2ggr2Z@dpg-ck3h0e6ru70s73dojv7g-a.frankfurt-postgres.render.com/kavi_wabot'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94777343948'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'kaviya_X'
 
-global.TIMEZONE = 'Asia/Colombo' 
+global.TIMEZONE = 'Asia/Kaluthara' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
@@ -45,7 +45,7 @@ global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@kaviya 🤹‍♂️' //sticker
 
 global.FOOTER = 'Queen Nilu 2023 '
 
